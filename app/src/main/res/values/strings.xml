@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">C Unit Converter</string>
+    <array name="currency">
+        <item>Singapore Dollar</item>
+        <item>Malaysia Ringgit</item>
+        <item>US Dollar</item>
+        <item>British pound</item>
+        <item>Euro</item>
+        <item>Japanese Yen</item>
+        <item>Thai Baht</item>
+    </array>
+
+    <array name="currency2">
+        <item>US Dollar</item>
+        <item>Malaysia Ringgit</item>
+        <item>Singapore Dollar</item>
+        <item>British pound</item>
+        <item>Euro</item>
+        <item>Japanese Yen</item>
+        <item>Thai Baht</item>
+    </array>
+
+    <array name="length1">
+        <item>Kilometer</item>
+        <item>Meter</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Mile</item>
+        <item>Feet</item>
+        <item>Inch</item>
+    </array>
+
+    <array name="length2">
+        <item>Kilometer</item>
+        <item>Meter</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Mile</item>
+        <item>Feet</item>
+        <item>Inch</item>
+    </array>
+
+    <array name="temperature1">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </array>
+
+    <array name="temperature2">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </array>
+
+    <array name="Weight1">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Tonne</item>
+    </array>
+
+    <array name="Weight2">
+        <item>Pound</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Kilogram</item>
+        <item>Ounce</item>
+        <item>Tonne</item>
+    </array>
+
+    <array name="Time1">
+        <item>Century</item>
+        <item>Calender Year</item>
+        <item>Month</item>
+        <item>Week</item>
+        <item>Day</item>
+        <item>Hour</item>
+        <item>Minute</item>
+        <item>Second</item>
+        <item>Millisecond</item>
+    </array>
+
+    <array name="Time2">
+        <item>Century</item>
+        <item>Calender Year</item>
+        <item>Month</item>
+        <item>Week</item>
+        <item>Day</item>
+        <item>Hour</item>
+        <item>Minute</item>
+        <item>Second</item>
+        <item>Millisecond</item>
+    </array>
+
+    <array name="Data1">
+        <item>Bit</item>
+        <item>Byte</item>
+        <item>Kilobyte</item>
+        <item>Megabyte</item>
+        <item>Gigabyte</item>
+        <item>Terabyte</item>
+    </array>
+
+    <array name="Data2">
+        <item>Bit</item>
+        <item>Byte</item>
+        <item>Kilobyte</item>
+        <item>Megabyte</item>
+        <item>Gigabyte</item>
+        <item>Terabyte</item>
+    </array>
+
+</resources>

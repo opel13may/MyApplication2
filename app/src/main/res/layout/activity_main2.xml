@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f8c471"
+    tools:context=".Main2Activity">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="95dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/button3"
+        android:layout_marginStart="27dp"
+        android:background="@drawable/rounded_button"
+        android:text="Currency"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/ac2" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="95dp"
+        android:layout_height="30dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/button2"
+        android:layout_marginEnd="25dp"
+        android:background="@drawable/rounded_button"
+        android:text="Temperature"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="95dp"
+        android:layout_height="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="172dp"
+        android:background="@drawable/rounded_button"
+        android:text="length"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="95dp"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/button1"
+        android:layout_marginBottom="164dp"
+        android:background="@drawable/rounded_button"
+        android:text="WEIGHT"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/button8"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/button5"
+        android:layout_marginBottom="202dp"
+        app:srcCompat="@drawable/small1" />
+
+    <ImageButton
+        android:id="@+id/button5"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/button6"
+        android:layout_marginStart="34dp"
+        app:srcCompat="@drawable/small2" />
+
+    <ImageButton
+        android:id="@+id/button6"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="82dp"
+        app:srcCompat="@drawable/small3" />
+
+    <ImageButton
+        android:id="@+id/button7"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/button5"
+        android:layout_marginEnd="33dp"
+        app:srcCompat="@drawable/small6" />
+
+    <ImageButton
+        android:id="@+id/button10"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignTop="@+id/button8"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/time02" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="95dp"
+        android:layout_height="30dp"
+        android:layout_alignTop="@+id/button4"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/rounded_button"
+        android:text="TIME"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/button12"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignStart="@+id/button7"
+        android:layout_alignTop="@+id/button8"
+        app:srcCompat="@drawable/data02" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="95dp"
+        android:layout_height="30dp"
+        android:layout_alignStart="@+id/button3"
+        android:layout_alignTop="@+id/button4"
+        android:background="@drawable/rounded_button"
+        android:text="DATA"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:text="Version 1.0"
+        android:textColor="@android:color/background_dark" />
+
+</RelativeLayout>
